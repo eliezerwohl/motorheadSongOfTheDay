@@ -14,7 +14,7 @@ var connection = mysql.createConnection({
 connection.query("SHOW TABLES LIKE 'user';", function(err, rows, fields) {
   	if (err) throw err;
   	if (rows.length > 0) {
-  		console.log("Db exists")
+  		console.log("db exists")
   	}
   	else{
   		console.log("db doesn't exist")
