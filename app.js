@@ -26,6 +26,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(logger('dev'));
 app.use(express.static(__dirname + '/public'));
+require('./routes')(app);
 // require('./routes')(app, connection);
 
 
