@@ -11,8 +11,10 @@ connection.query(string, function(err, rows, fields) {
 module.exports = function(app,connection) {
 
 	app.get("/", function(req, res){
-		// res.send("got it")
 		sendFunc(res, "home");
+	});
+		app.get("/add", function(req, res){
+		sendFunc(res, "add");
 	});
 	app.get("*", function(req,res){
 			res.send("404'd!")
