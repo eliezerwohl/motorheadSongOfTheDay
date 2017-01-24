@@ -3,7 +3,7 @@ var app = express();
 var PORT = process.env.PORT || 9000;
 var mysql      = require('mysql');
 var password = require("./ignore.js");
-// var table = require("./server/controllers/tableController.js")
+var table = require("./server/controllers/tableController.js")
 var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
@@ -18,7 +18,7 @@ connection.query("SHOW TABLES LIKE 'user';", function(err, rows, fields) {
   	}
   	else{
   		console.log("db doesn't exist")
-  		// table.createTable(connection);
+  		table.createTable(connection);
   	}
 });
 var logger = require("morgan");

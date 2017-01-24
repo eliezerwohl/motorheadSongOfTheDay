@@ -1,0 +1,377 @@
+cover,title
+
+1, "Motorhead"
+0, 	"Vibrator"  
+1, "Lost Johnny"
+0, 	"Iron Horse / Born to Lose"  
+0, "White Line Fever"
+0, "Keep Us on the Road"
+1, "The Watcher"
+1, "The Train Kept A-Rollin"
+0, "Overkill"
+0, "Stay Clean"
+0, "(I Won't) Pay Your Price"  
+0, "I'll Be Your Sister"  
+0, 	"Capricorn"  
+0, 	"No Class"  
+0, 	"Damage Case"  
+0, 	"Tear Ya Down"  
+0, 	"Metropolis"  
+0,  "Limb from Limb"  
+0, "Dead Men Tell No Tales"  
+0, 	"Lawman"  
+0, 	"Sweet Revenge"  
+0, 	"Sharpshooter"  
+0, 	"Poison"  
+0, 	"Stone Dead Forever"  
+0, 	"All the Aces"  
+0, "Step Down"  
+0, 	"Talking Head"  
+0, 	"Bomber"  
+0,"Ace of Spades"  
+0, 	"Love Me Like a Reptile"  
+0, 	"Shoot You in the Back"  
+0, 	"Live to Win" 
+0, 	"Fast and Loose"  
+0, 	"(We Are) The Road Crew"  
+0, "Fire, Fire"  
+0,	"Jailbait"  
+0, 	"Dance"  
+0, 	"Bite the Bullet"  
+0, 	"The Chase Is Better Than the Catch"  
+0, "The Hammer"  
+0, "Iron Fist"  
+0, 	"Heart of Stone"  
+0, 	"I'm the Doctor"  
+0, 	"Go to Hell"  
+0, 	"Loser"  
+0, 	"Sex & Outrage"  
+0, 	"America"  
+0, 	"Shut It Down"  
+0, 	"Speedfreak"  
+0, 	"(Don't Let 'em) Grind Ya Down"  
+0, 	"(Don't Need) Religion"  
+0, 	"Bang to Rights"  
+0, 	"Back at the Funny Farm"  
+0, 	"Shine"  
+0, 	"Dancing on Your Grave"  
+0, 	"Rock It"  
+0, 	"One Track Mind"  
+0,	"Another Perfect Day"  
+0, 	"Marching Off to War"  
+0, 	"I Got Mine"  
+0, 	"Tales of Glory"  
+0, 	"Die You Bastard!" 
+0, 	"Deaf Forever"  
+0, 	"Nothing Up My Sleeve"  
+0, 	"Ain't My Crime"  
+0, 	"Claw"  
+0,	"Mean Machine"  
+0, 	"Built for Speed"  
+0,	"Ridin' with the Driver"  
+0, 	"Doctor Rock"  
+0, 	"Orgasmatron"  
+0, 	"Rock 'n' Roll"  
+0, "Eat the Rich"  
+0, 	"Blackheart"  
+0, 	"Stone Deaf in the U.S.A."  	 
+0, 	"The Wolf"  
+0, 	"Traitor"  
+0, 	"Dogs"  
+0, 	"All for You"  
+0, 	"Boogeyman"  
+0,	"The One to Sing the Blues"  
+0, 	"I'm So Bad (Baby I Don't Care)"  
+0, "No Voices in the Sky"  
+0, 	"Going to Brazil"  
+0, 	"Nightmare / The Dreamtime"  
+0, 	"Love Me Forever"  
+0, 	"Angel City"  
+0, 	"Make My Day"  
+0, 	"R.A.M.O.N.E.S."  
+0, "Shut You Down"  
+0, 	"1916"  
+0, 	"Stand"  
+1, 	"Cat Scratch Fever"
+0, 	"Bad Religion"  
+0, "Jack the Ripper"  
+0, 	"I Ain't no Nice Guy"  
+0, 	"Hellraiser"  
+0, 	"Asylum Choir"  
+0, 	"Too Good to Be True"  
+0, "You Better Run"  
+0, 	"Name in Vain"  
+0, 	"March ör Die"  
+0, 	"On Your Feet or on Your Knees"  
+0, "Burner"  
+0, 	"Death or Glory"  
+0, 	"I Am the Sword"  
+0, 	"Born to Raise Hell"  
+0, 	"Don't Let Daddy Kiss Me"  
+0,  	"Bad Woman"  
+0, 	"Liar"  
+0, 	"Lost in the Ozone"  
+0, 	"I'm Your Man"  
+0, 	"We Bring the Shake"  
+0, 	"Devils"  
+0,	"Sacrifice"  
+0, 	"Sex & Death"  
+0, "Over Your Shoulder"  
+0, 	"War for War"  
+0, "Order/Fade to Black"  
+0, 	"Dog-Face Boy"  
+0, 	"All Gone to Hell"  
+0, 	"Make 'Em Blind"  
+0, 	"Don't Waste Your Time"  
+0, 	"In Another Time"  
+0, 	"Out of the Sun"  
+0, "Civil War"  
+0, "Crazy Like a Fox"  
+0, 	"I Don't Believe a Word"  
+0, 	"Eat the Gun"  
+0, 	"Overnight Sensation"  
+0, 	"Love Can't Buy You Money"  
+0, "Broken"  
+0, 	"Them Not Me"  
+0, 	"Murder Show"  
+0, 	"Shake the World"
+0, 	"Listen to Your Heart"  
+0, 	"Love for Sale"  
+0, 	"Dogs of War"  
+0, "Snake Bite Love"  
+0, 	"Assassin"  
+0, 	"Take the Blame"  
+0, 	"Dead and Gone"  
+0, 	"Night Side"  
+0, 	"Don't Lie to Me"  
+0, 	"Joy of Labour"  
+0, 	"Desperate for You"  
+0, 	"Better Off Dead"  
+0, 	"See Me Burning"  
+0, 	"Slow Dance"  
+0, 	"Stay Out of Jail"  
+1, "God Save the Queen"
+0, "Out to Lunch"  
+0, "Wake the Dead"  
+0, 	"One More Fucking Time"  
+0, 	"Stagefright/Crash & Burn"  
+0, 	"(Wearing Your) Heart on Your Sleeve"  
+0, 	"We Are Motörhead" 
+0, 	"Walk a Crooked Mile"  
+0, 	"Down the Line"  
+0, 	"Brave New World"  
+0, "Voices from the War"  
+0, 	"Mine All Mine"
+0, 	"Shut Your Mouth"  
+0, "Kill the World"  
+0, 	"Dr. Love"  
+0, 	"No Remorse"  
+0, 	"Red Raw"
+0, 	"Serial Killer"  
+0, 	"The Game"  
+0, "Terminal Show"  
+0, 	"Killers"  
+0, "In the Name of Tragedy"  
+0, 	"Suicide"  
+0, 	"Life's a Bitch"  
+0, 	"Down on Me"  
+0, 	"In the Black"  
+0, "Fight"  
+0, 	"In the Year of the Wolf"  
+0, 	"Keys to the Kingdom"  
+0, 	"Smiling Like a Killer"  
+0, 	"Whorehouse Blues"  
+0, 	"Sucker"  
+0,  "One Night Stand"  
+0, 	"Devil I Know"  
+0, "Trigger"  
+0, 	"Under the Gun"  
+0, 	"God Was Never on Your Side"  
+0, "Living in the Past"  
+0, 	"Christine"  
+0, 	"Sword of Glory"  
+0, "Be My Baby" 
+0, 	"Kingdom of the Worm"  	
+0, 	"Going Down"  
+0,"Runaround Man"  
+0, "Teach You How to Sing the Blues"  
+0, 	"When the Eagle Screams"  
+0, "Rock Out"  
+0, 	"One Short Life"
+0, 	"Buried Alive"  
+0, 	"English Rose" 
+0, 	"Back on the Chain"  
+0, 	"Heroes"  
+0, 	"Time Is Right"  
+0, 	"The Thousand Names of God"  
+0, 	"Born to Lose"  
+0, "I Know How to Die"  
+0, 	"Get Back in Line"  
+0, 	"Devils in My Head"  
+0, 	"Rock 'n' Roll Music"  
+0, "Waiting for the Snake"  
+0, 	"Brotherhood of Man"  
+0, 	"Outlaw"  
+0, 	"I Know What You Need"  
+0, 	"Bye Bye Bitch Bye Bye"  
+0, 	"Heartbreaker"  
+0, 	"Coup de Grace"  
+0, 	"Lost Woman Blues"  
+0, 	"End of Time"  
+0, 	"Do You Believe"  
+0, 	"Death Machine"  
+0, 	"Dust and Glass"  
+0, 	"Going to Mexico"  
+0, 	"Silence When You Speak to Me"  
+0, 	"Crying Shame"  
+0, 	"Queen of the Damned"  
+0, 	"Knife"  
+0, "Keep Your Powder Dry"  
+0, 	"Paralyzed"  
+0, "Victory or Die"  
+0, "Thunder & Lightning"  
+0, 	"Fire Storm Hotel"  
+0, 	"Shoot Out All of Your Lights"  
+0, 	"The Devil"  
+0, 	"Electricity"  
+0, 	"Evil Eye"  
+0, 	"Teach Them How to Bleed"  
+0, 	"Till the End"  
+0, 	"Tell Me Who to Kill"  
+0, "Choking on Your Screams"  
+0, 	"When the Sky Comes Looking for You"  
+0, 	"Sympathy for the Devil"
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
